@@ -1,0 +1,16 @@
+.additional__img {
+    width: 284px;
+    height: 330px;
+    margin: 0 11px 0 0;
+    opacity: 1;
+}
+
+.additional__img:last-child {
+    width: 284px;
+    height: 330px;
+    margin: 0 0 0 0;
+}
+
+.additional__img:hover {
+    opacity: 0.8;
+}

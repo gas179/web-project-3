@@ -1,0 +1,10 @@
+@import url('./__title/additional__title.css');
+@import url('./__subtitle/additional__subtitle.css');
+@import url('./__container/additional__container.css');
+@import url('./__img/additional__img.css');
+
+.additional {
+    width: 1184px;
+    height: 542px;
+    margin: 0 auto 102px;
+}

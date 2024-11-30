@@ -1,0 +1,13 @@
+@import url('./__address-url/container-places__address-url.css');
+@import url('./__img/container-places__img.css');
+@import url('./__paragraph-1/container-places__paragraph-1.css');
+@import url('./__paragraph-2/container-places__paragraph-2.css');
+@import url('./__title/container-places__title.css');
+@import url('./__url/container-places__url.css');
+
+.container-places {
+    display: grid;
+    grid-template-columns: repeat(2, 460px 484px);
+    grid-column-gap: 40px;
+    margin: 0 auto 69px;
+}

@@ -1,0 +1,10 @@
+.video__title {
+    width: 800px;
+    height: 147px;
+    font-family: 'Inter-Bold';
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 78px;
+    text-align: center;
+    margin: 0 192px 42px 192px;
+}

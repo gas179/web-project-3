@@ -1,0 +1,10 @@
+.comments__title {
+    width: 800px;
+    height: 133px;
+    text-align: center;
+    font-family: 'Inter-Bold';
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 65px;
+    margin: 0 240px 37px 184px;
+}

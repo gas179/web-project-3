@@ -1,0 +1,11 @@
+@import url('./__subtitle/trav-to-rus__subtitle.css');
+@import url('./__paragraph/trav-to-rus__paragraph.css');
+
+.trav-to-rus {
+    width: 985px;
+    height: 939px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px auto 84px;
+}

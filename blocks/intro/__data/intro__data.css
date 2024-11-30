@@ -1,0 +1,11 @@
+.intro__data {
+    width: 283px;
+    height: 25px;
+    font-family: 'Inter-Bold';
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 16px;
+    position: absolute;
+    top: 154px;
+    left: 701px;
+}

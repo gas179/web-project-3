@@ -1,0 +1,12 @@
+@import url('./_kolskiy/container-places__title_kolskiy.css');
+@import url('./_altay/container-places__title_altay.css');
+@import url('./_karelia/container-places__title_karelia.css');
+
+.container-places__title {
+    font-family: 'Inter-Bold';
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 65px;
+    padding: 10px 0 53px 0;
+    margin: 0;
+}

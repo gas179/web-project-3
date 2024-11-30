@@ -1,0 +1,12 @@
+.video__link {
+    margin-right: 13px;
+    opacity: 1;
+}
+
+.video__link:hover {
+    opacity: 0.8;
+}
+
+.video__link:last-child {
+    margin-right: 0;
+}

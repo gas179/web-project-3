@@ -1,0 +1,7 @@
+.cover__img {
+    opacity: 1;
+}
+
+.cover__img:hover {
+    opacity: 0.8;
+}

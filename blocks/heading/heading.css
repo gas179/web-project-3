@@ -1,0 +1,9 @@
+@import url('./__image/heading__image.css');
+
+.heading {
+    width: 1186px;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto 59px;
+}

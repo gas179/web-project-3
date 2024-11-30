@@ -1,0 +1,12 @@
+@import url('./__title/emblem__title.css');
+@import url('./__img-1/emblem__img-1.css');
+@import url('./__img-2/emblem__img-2.css');
+@import url('./__img-3/emblem__img-3.css');
+@import url('./__img-4/emblem__img-4.css');
+@import url('./__img-5/emblem__img-5.css');
+
+.emblem {
+    width: 1184px;
+    height: 523px;
+    margin: 0 auto 78px;
+}

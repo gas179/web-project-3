@@ -1,0 +1,15 @@
+.container-places__address-url {
+    font-family: 'Inter-Regular';
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 0;
+    margin: 0;
+}
+
+.container-places__address-url:hover {
+    padding: 0;
+    border-bottom: 1px solid #FFFFFF;
+}

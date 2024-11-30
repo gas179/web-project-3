@@ -1,0 +1,16 @@
+@import url('./__author/intro__author.css');
+@import url('./__data/intro__data.css');
+@import url('./__landmark/intro__landmark.css');
+@import url('./__landmark-item/intro__landmark-item.css');
+@import url('./__paragraph/intro__paragraph.css');
+@import url('./__subtitle/intro__subtitle.css');
+@import url('./__title/intro__title.css');
+
+.intro {
+    width: 984px;
+    height: 437px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 0 auto 88px;
+}

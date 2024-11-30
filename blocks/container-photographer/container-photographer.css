@@ -1,0 +1,7 @@
+@import url('./__img/container-photographer__img.css');
+@import url('./__paragraph/container-photographer__paragraph.css');
+@import url('./__author/container-photographer__author.css');
+
+.container-photographer {
+    width: 382px;
+}

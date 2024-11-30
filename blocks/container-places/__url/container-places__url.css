@@ -1,0 +1,15 @@
+@import url('./_kolskiy/container-places__url_kolskiy.css');
+@import url('./_altay/container-places__url_altay.css');
+@import url('./_karelia/container-places__url_karelia.css');
+@import url('./_barentsburg/container-places__url_barentsburg.css');
+
+.container-places__url {
+    font-family: 'Inter-Regular';
+    font-weight: 100;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    color: #AAAAAA;
+    padding: 84px 0 7px 0;
+    margin: 0;
+}
