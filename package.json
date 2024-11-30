@@ -1,0 +1,27 @@
+{
+  "name": "yandex.praktikum-project-3",
+  "version": "1.0.0",
+  "description": "Project work #3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Verakhab/Yandex.Praktikum-Project-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Verakhab/Yandex.Praktikum-Project-3/issues"
+  },
+  "homepage": "https://github.com/Verakhab/Yandex.Praktikum-Project-3#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^9.0.0",
+    "postcss": "^8.2.4"
+  }
+}
